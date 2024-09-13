@@ -27,7 +27,12 @@ Feel free to reach out if you'd like to discuss ideas, seek advice, or explore n
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-232F3E?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://www.iso.org/isoiec-27001-information-security.html"><img src="https://img.shields.io/badge/ISO%2027001-0033A0?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001"/></a>
 </p>
+
 
 Created by Ekta Bhatia (Carleton University - Master of Engineering)
 
