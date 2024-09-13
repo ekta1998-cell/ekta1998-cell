@@ -9,7 +9,7 @@ I'm an IT professional with over four years of experience specializing in Cybers
 
 💡 I believe in the power of collaboration and actively seek opportunities to work on projects that integrate software development, data engineering, and cybersecurity. If you're working on an exciting project or have opportunities to explore in these domains, I'd love to connect and collaborate! 🤝
 
-Feel free to reach out if you'd like to discuss ideas, seek advice, or explore new opportunities. You can contact me at ekta.bhatia@example.com. Let’s innovate and make a positive impact together!
+Feel free to reach out if you'd like to discuss ideas, seek advice, or explore new opportunities. You can contact me at ekta301998@gmail.com Let’s innovate and make a positive impact together!
 
 **Tagline:** Empowering Innovation through Technology and Security
 
